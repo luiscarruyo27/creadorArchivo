@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(119, 88, 88), rgb(50, 52, 177));
+}
+
+.form {
+    display: inline-block;
+}
+
+.top {
+    margin-top: 15px;
+}
